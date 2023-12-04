@@ -3,28 +3,25 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Chiteri Oyale
+Free Thinker
 
 Show Contacts
 
 Email
-richard@example.com
+oyalekevin@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+St Louis, Missouri, USA
 
 # navbar
 
 About
 Resume
 Portfolio
+Booklist
 Blog
 Contact
 
